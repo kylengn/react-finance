@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-finance/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/react-finance/static/js/main.67e601c7.chunk.js",
+    "main.js.map": "/react-finance/static/js/main.67e601c7.chunk.js.map",
+    "runtime-main.js": "/react-finance/static/js/runtime-main.c198fee9.js",
+    "runtime-main.js.map": "/react-finance/static/js/runtime-main.c198fee9.js.map",
+    "static/js/2.b95a66e7.chunk.js": "/react-finance/static/js/2.b95a66e7.chunk.js",
+    "static/js/2.b95a66e7.chunk.js.map": "/react-finance/static/js/2.b95a66e7.chunk.js.map",
+    "index.html": "/react-finance/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/react-finance/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.b95a66e7.chunk.js.LICENSE.txt": "/react-finance/static/js/2.b95a66e7.chunk.js.LICENSE.txt",
+    "static/media/svg-0.66553788.svg": "/react-finance/static/media/svg-0.66553788.svg",
+    "static/media/svg-1.5f11287c.svg": "/react-finance/static/media/svg-1.5f11287c.svg",
+    "static/media/svg-2.svg": "/react-finance/static/media/svg-2.d85bc43e.svg",
+    "static/media/svg-3.svg": "/react-finance/static/media/svg-3.0e550fa8.svg",
+    "static/media/svg-6.svg": "/react-finance/static/media/svg-6.20750a9d.svg",
+    "static/media/svg-7.f24b0deb.svg": "/react-finance/static/media/svg-7.f24b0deb.svg",
+    "static/media/video.7d1ea6a9.mp4": "/react-finance/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c198fee9.js",
+    "static/js/2.b95a66e7.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.67e601c7.chunk.js"
+  ]
+}
